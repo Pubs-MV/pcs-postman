@@ -1,4 +1,4 @@
-# Instructions on how to setup the Postman Collections and Environments relating to Prisma Cloud (including Compute Console) API requests
+# Setup the Postman Collections and Environments for Prisma Cloud (including Compute Console) API Requests
 
 To use these Collections and Environment, there are a few setup pieces after importing the 3 files into Postman:
 1. [Import the 3 files](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/) in root of this repo (2 Collections and 1 Environment) into Postman.
